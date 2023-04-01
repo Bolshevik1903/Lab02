@@ -5,6 +5,6 @@ public class Teacher extends Person {
 	public String category;
 	
 	public void greeting(){
-		System.out.print("I'm a teacher to teach Java");
+		System.out.println("I'm a teacher to teach Java");
 	}
 }

@@ -5,6 +5,6 @@ public class Worker extends Person{
 	public String charge;
 	
 	public void greeting(){
-		System.out.print("I'm a worker that use Java");
+		System.out.println("I'm a worker that use Java");
 	}
 }

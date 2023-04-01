@@ -5,6 +5,6 @@ public class Student extends Person {
 	public String speciality;
 
 	public void greeting(){
-		System.out.print("I'm a Java student");
+		System.out.println("I'm a Java student");
 	}
 }
